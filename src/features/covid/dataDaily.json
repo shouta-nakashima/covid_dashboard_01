@@ -1,0 +1,34 @@
+[
+  {
+    "totalConfirmed":555,
+    "mainlandChina":548,
+    "otherLocations":7,
+    "deltaConfirmed":0,
+    "totalRecovered":0,
+    "confirmed":{
+      "total":555,
+      "china":548,
+      "outsideChina":7
+    },
+    "deltaConfirmedDetail":{
+      "total":0,
+      "china":0,
+      "outsideChina":0
+    },
+    "deaths":{
+      "total":17,
+      "china":17,
+      "outsideChina":0
+    },
+    "recovered":{
+      "total":0,
+      "china":0,
+      "outsideChina":0
+    },
+    "active":0,
+    "deltaRecovered":0,
+    "incidentRate":0.44821646978651847,
+    "peopleTested":0,
+    "reportDate":"2020-01-22"
+  }
+]
